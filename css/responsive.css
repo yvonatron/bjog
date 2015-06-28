@@ -1,0 +1,343 @@
+  
+
+@media all and (min-width: 0px) and (max-width: 479px) {
+	  
+	  #main {
+  		width:100%;
+  		margin-right:0;
+  		margin-left:0;
+  		padding-left:15px;
+  		padding-right:15px;
+	}
+
+	  #sideBar{
+	  	clear:left;
+	  	width:100%;
+	  }
+
+	  header{
+	  	height:180px;
+	  	min-width:320px;
+	  }
+
+	 .mainContentLeft,
+	 .mainContentRight{
+	  	width:100%;
+	  	float:left;
+	  	margin-left:0;
+		margin-right:0;
+	  }
+
+	  .contentModule{
+	  	width:100%;
+	  	margin-right:0;
+	  	margin-left:0;
+	  }
+
+	  .contentModule{
+		padding-left:0;
+		padding-right:0;
+	}
+
+	.contentModule h1,
+	.contentModule h2,
+	.contentModule h3,
+	.contentModule h4,
+	.contentModule p,
+	.contentModule img,
+	.contentModule label,
+	.contentModule a {
+		padding-left:15px;
+		padding-right:15px;
+		text-indent:0;
+	}
+
+	.contentModule div:first-child{
+		width:100%;
+		margin-top:0px;
+		z-index:-1;
+		padding-left:0;
+		padding-right:0;
+		overflow:auto;
+		margin-left:0;
+		margin-top:-10px;
+	}
+
+	  body, nav{
+		width:100%;
+	}
+
+	  body, nav{
+		width:100%;
+	}
+
+	#sideBar nav ul li{
+		display:inline-table;
+		padding-right:8px;
+		min-width:160px;
+		text-align:left;
+		margin-right:15px;
+	}
+	
+	#sideBar nav ul li:nth-of-type(n+2){
+		margin-right:20px;
+	}
+	
+	#sideBar nav ul li:nth-of-type(n+3){
+		float:left;
+	}
+
+	#sideBar h2{
+		display: none;
+		border-bottom:none;
+	}
+
+	#sideBar{
+		padding-top:0;
+	}
+
+	#subnav li{
+		width:100;
+		display:block;
+	}
+
+	#subnav{
+		position:relative;
+		overflow:hidden;
+		
+	}
+
+	#aside{
+		float:left;
+		width:100%;
+	}
+
+	.headerText{
+		top:0;
+		float:right;
+		position:absolute;
+		right:15px;
+		margin-right:0;
+
+	}
+
+	header{
+		min-width:320px;
+	}
+	
+
+	article section img{
+		margin-bottom:15px;
+	}
+
+	article .editorial{
+		padding-left:15px; 
+	}
+
+	article .publisher{
+		padding-left:15px; 
+	}
+
+	#aside{
+		padding:0 15px 0 15px;
+	}
+
+	.searchModule label{
+		padding-left:15px;
+	}
+
+	.searchModule #search{
+		margin-left:15px;
+	}
+
+	.searchModule button{
+		margin-right:15px;
+	}
+
+
+	footer nav{
+		width:100%;
+		padding-left:15px;
+	}
+
+	footer nav ul li{
+		width:50%;
+		padding:0;
+		border:none;
+		line-height:1.4em;
+	}
+
+	footer nav ul li:first-child{
+		padding-left:0;
+	}
+
+	footer{
+		height:145px;
+		width:100%;
+		background-color:white;
+		margin-top:-55px;
+	}
+
+	footer img{
+		float:left;
+		margin:15px 0 0 20px;
+	}
+	
+}
+
+@media all and (min-width: 480px) and (max-width: 639px) {
+	#sideBar{
+	  	clear:left;
+	  	width:100%;
+	  }
+
+	  #main {
+  		width:100%;
+  		margin-right:0;
+  		margin-left:0;
+  		padding-left:20px;
+  		padding-right:20px;
+
+	}
+
+	  header{
+	  	height:180px;
+	  	background:url("../img/headerSlice.png"),bottom-left, repeat-x, #5e9bbf;
+	  }
+
+		/* reset margins to 100% width and apply padding to elements*/
+	  .mainContentLeft,
+	  .mainContentRight{
+	  	width:100%;
+	  	float:left;
+	  	margin-left:0;
+		margin-right:0;
+	  }
+
+	  .contentModule{
+	  	width:100%;
+	  	margin-right:0;
+	  	margin-left:0;
+	  }
+
+	  .contentModule{
+		padding-left:0;
+		padding-right:0;
+	}
+
+	.contentModule h1,
+	.contentModule h2,
+	.contentModule h3,
+	.contentModule h4,
+	.contentModule p,
+	.contentModule img,
+	.contentModule div,
+	.contentModule a{
+		padding-left:15px;
+		padding-right:15px;
+		text-indent:0;
+	}
+
+	.contentModule div:first-child{
+		width:100%;
+		margin-top:0px;
+		z-index:-1;
+		padding-left:0;
+		padding-right:0;
+		overflow:auto;
+		margin-left:0;
+		margin-top:-10px;
+	}
+
+	  body, #sideBar nav{
+		width:100%;
+	}
+
+	#sideBar nav ul li{
+		width:100;
+		display:inline-table;
+		padding-right:8px;
+		min-width:175px;
+		text-align:left;
+		margin-right:15px;
+	}
+
+	#sideBar nav ul li:nth-of-type(n+3){
+		margin-right:20px;
+	}
+
+
+	#sideBar nav ul li:nth-of-type(n+4){
+		float:left;
+	}
+
+	#sideBar h2{
+		display: none;
+		border-bottom:none;
+	}
+
+	#sideBar{
+		padding-top:0;
+	}
+
+	#subnav{
+		position:relative;
+		padding-top:0;
+		margin-top:0;
+		overflow:hidden;
+	}
+
+	#subnav li{
+		width:100;
+		display:block;
+	}
+
+	#aside{
+		float:left;
+		width:100%;
+	}
+
+	header .title{
+		width:70%;
+	}
+
+	.mainContentLeft{
+		margin-left:0;
+		margin-right:0;
+	}
+
+	footer nav{
+		width:75%;
+		padding-left:15px;
+	}
+
+	footer nav ul li{
+		max-width:120px;
+		padding:0 8px 0 8px;
+		line-height:1.4em;
+	}
+
+	footer nav ul li:first-child{
+		padding-left:0;
+	}
+
+	#aside{
+		padding:0 20px 0 20px;
+	}
+
+	.searchModule label{
+		padding-left:15px;
+	}
+
+	.searchModule #search{
+		margin-left:15px;
+	}
+
+	.searchModule button{
+		margin-right:15px;
+	}
+
+@media all and (min-width: 640px) and (max-width: 959px) {
+
+
+}

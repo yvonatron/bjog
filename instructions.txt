@@ -1,0 +1,17 @@
+UI Test Requirements
+--------------------
+- Markup and style the page design located in (\exercise\)
+- '\exercise\' contains useful JPGs and Photoshop file representing the page to build
+- '\exercise\page-text.txt contains the text content to save you typing
+
+Our expectations
+-----------------
+- Semantic HTML5 markup
+- Implement Web Accessibility standards
+- Responsive interface
+- Good content usage and Layout
+- Cross Browser Support (graceful degradation acceptable for older browser versions)
+- Add JavaScript validation to search box
+- Expand/Collapse sub menu using JavaScript
+- Demonstrate Object Oriented approach to JavaScript
+- Keep performance in mind throughout all code

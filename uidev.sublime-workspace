@@ -1,0 +1,493 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"f",
+				"font-family"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"im",
+				"IMG"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"r",
+				"router"
+			],
+			[
+				"o",
+				"onreadystatechange〔variable〕"
+			],
+			[
+				"t",
+				"type"
+			],
+			[
+				"k",
+				"keysIn"
+			],
+			[
+				"ke",
+				"keystore"
+			],
+			[
+				"p",
+				"param"
+			],
+			[
+				"s",
+				"store"
+			],
+			[
+				"wp_en",
+				"wp_enqueue_styles"
+			],
+			[
+				"end",
+				"endY"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"us",
+				"user"
+			],
+			[
+				"g",
+				"getUsersStore"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"b",
+				"background-origin"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"fo",
+				"font-style"
+			],
+			[
+				"back",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "instructions.txt",
+			"settings":
+			{
+				"buffer_size": 684,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2998,
+				"line_ending": "Unix",
+				"name": "<!doctype>"
+			}
+		},
+		{
+			"file": "css/journals.css",
+			"settings":
+			{
+				"buffer_size": 832,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "exercise/page-text.txt",
+			"settings":
+			{
+				"buffer_size": 1151,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 387.0,
+		"selected_items":
+		[
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"bea",
+				"Javascript Beautify"
+			],
+			[
+				"jav",
+				"Javascript Beautify"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"package controll",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/metro/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/yform.html",
+		"/Users/yvonatron/myBooks/build/assets/js/routes.js",
+		"/Users/yvonatron/myBooks/build/assets/js/templates.js",
+		"/Users/yvonatron/myBooks/client/index.html",
+		"/Users/yvonatron/myBooks/client/assets/css/app.css",
+		"/Users/yvonatron/myBooks/templates/settings.html",
+		"/Users/yvonatron/myBooks/templates/home.html",
+		"/Users/yvonatron/musicapp/assets/js/app.js",
+		"/Users/yvonatron/musicapp/assets/js/routes.js",
+		"/Users/yvonatron/myBooks/client/assets/js/routes.js",
+		"/Users/yvonatron/myBooks/client/assets/js/app.js",
+		"/Users/yvonatron/myBooks/client/assets/js/angular.js",
+		"/Users/yvonatron/myBooks/client/assets/css/app.css.map",
+		"/Users/yvonatron/Downloads/frontend-units-master 4/node_modules/chai/bower.json",
+		"/Users/yvonatron/Downloads/frontend-units-master 4/node_modules/chai/index.js",
+		"/Users/yvonatron/Downloads/frontend-units-master 2/index.js",
+		"/Users/yvonatron/Downloads/frontend-units-master 4/node_modules/mocha/index.js",
+		"/Users/yvonatron/Downloads/frontend-units-master 2/package.json",
+		"/Users/yvonatron/Downloads/frontend-units-master 4/node_modules/mocha/mocha.js",
+		"/Applications/XAMPP/xamppfiles/share/mysql/mysql_system_tables.sql",
+		"/Users/yvonatron/Downloads/javascript-robot-workshop-two (2)/js/robotmazeinterface.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/robot/js/robotmazeinterface.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/robot/index 2.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/ext-js/examples/app/nested-loading/app/controller/Books.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/ext-js/examples/app/simple/app/view/Viewport.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/ext-js/examples/app/simple/app/view/user/Edit.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/ext-js/examples/app/simple/data/users.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/ext-js/examples/app/simple/app/model/User.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/ext-js/examples/app/simple/app.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/ext-js/examples/app/simple/data/updateUsers.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/ext-js/examples/app/nested-loading/app/model/Book.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/ext-js/examples/app/simple/app/store/Users.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/ext-js/examples/app/simple/app/controller/Users.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/ext-js/examples/app/nested-loading/app/store/Books.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/ext-js/examples/app/simple/all-classes.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/ext-js/examples/app/nested-loading/app.jsb3",
+		"/Applications/XAMPP/xamppfiles/htdocs/ext-js/examples/app/simple/simple.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/ext-js/examples/app/feed-viewer/app.jsb3",
+		"/Applications/XAMPP/xamppfiles/htdocs/ext-js/examples/app/simple/app.jsb3",
+		"/Applications/XAMPP/xamppfiles/htdocs/ext-js/examples/app/nested-loading/app/view/book/SideBar.js",
+		"/Users/yvonatron/workspace/backbonetutorial/examples/cross-domain/index.html",
+		"/Users/yvonatron/workspace/lab49/styles.css",
+		"/Users/yvonatron/workspace/lab49/bootstrap.min.css",
+		"/Users/yvonatron/workspace/lab49/index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"route",
+			"rounter",
+			"routes",
+			"home",
+			"templates",
+			"home",
+			"spaces",
+			"proxy",
+			"/**",
+			"booksidebar",
+			"list",
+			"user",
+			"manager",
+			"connect",
+			"connent",
+			"'",
+			"a:",
+			"selected"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "instructions.txt",
+					"settings":
+					{
+						"buffer_size": 684,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								684,
+								684
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 2998,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2233,
+								2233
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_name": "<!doctype>",
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/journals.css",
+					"settings":
+					{
+						"buffer_size": 832,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								735,
+								735
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 293.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "exercise/page-text.txt",
+					"settings":
+					{
+						"buffer_size": 1151,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								954,
+								903
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Applications/XAMPP/xamppfiles/htdocs/wp-content/ext-4.2.1.883 2/examples/MVC/pandora/EXTJSMVC.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 166.0,
+	"status_bar_visible": true
+}
